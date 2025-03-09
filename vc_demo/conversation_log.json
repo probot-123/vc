@@ -1,0 +1,27 @@
+[
+    {
+        "role": "assistant",
+        "timestamp": "",
+        "text": "Hey, how can I help you today?"
+    },
+    {
+        "role": "user",
+        "timestamp": "",
+        "text": "what is the gap between the two."
+    },
+    {
+        "role": "assistant",
+        "timestamp": "",
+        "text": "Could you clarify what two things you're referring to?"
+    },
+    {
+        "role": "user",
+        "timestamp": "",
+        "text": "What is the capital of India?"
+    },
+    {
+        "role": "assistant",
+        "timestamp": "",
+        "text": "The capital of India is New Delhi."
+    }
+]
